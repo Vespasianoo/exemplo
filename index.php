@@ -1,3 +1,3 @@
 <?php
 
-echo "Alo mundo: versao 3";
+echo "Alo mundo: versao 4.0.0";
